@@ -3,7 +3,7 @@
 ## Project Overview
 This project combines **Linear Algebra** and **Data Science** techniques to analyze the evolution of food prices in Argentina (Inflation) and classify products based on their nutritional profile. 
 
-Developed as a Capstone Project for *Cálculo Numérico / Álgebra Lineal Computacional* at **Universidad de Buenos Aires (UBA)**.
+Developed as a Capstone Project for *Álgebra Lineal Computacional* at **Universidad de Buenos Aires (UBA)**.
 
 ## Key Objectives
 1.  **Inflation Modeling:** Calculate the monthly inflation rate for specific nutrients (Proteins, Carbs, Fats) using **Least Squares Regression**.
